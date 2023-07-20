@@ -1,0 +1,4 @@
+Hi in this file I am going to create a file 
+entering text into it by vi editor 
+adding to staging after that commiting
+and push into projectKreposirty in vamsi branch
